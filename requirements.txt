@@ -1,5 +1,2 @@
-flask
-python-telegram-bot
-openai
-pytesseract
-Pillow
+python-telegram-bot==13.15
+Flask==2.2.5
