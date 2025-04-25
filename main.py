@@ -1,3 +1,4 @@
+from telegram import Update
 from flask import Flask, request
 import telegram
 import os
